@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(94, 64, 221);
+  color: rgb(214, 214, 52);;
+}
+body {
+    font-size: 1.2em;
+    font-family: 'Josefin Slab', serif;
+    text-align:center;
+}
+
+h1 {
+
+  font-family: 'Abril Fatface', cursive;
+  text-align:right;
+
+font-variation-settings: 'wght' 50;
+font-size: 10em;
+  text-align:left;
+  margin-left:20%;
+  line-height:80%;
+  color:#ffffff;
+
+}
+
+.rotatecontainer {
+  width:25%;
+  float:right;
+}
+
+.rotate {
+  transform: rotate(90deg);
+  display:inline-block;
+  float:right;
+  transform-origin: 50% 50%;
+}
+
+img {
+  width:100%;
+  height:auto;
+
+}
+
+#imagewrap {
+  float:left;
+  width:66%;
+}
+.manifestotext {
+  text-align:left;
+  display: inline;
+}
